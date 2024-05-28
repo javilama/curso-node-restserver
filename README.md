@@ -6,7 +6,7 @@
 
 # Crear un tag en Git
 
-- git tag -a v1.0.0 -m "mensaje del commit"
+- git tag -a v1.0.0 -m "mensaje del commit" (colocar la version que corresponda)
 - git push --tags
 - ir a git y en el proyecto crear un release tag.
 
